@@ -11,6 +11,6 @@ In each encoder layer, the GLIF is used for cross-modal fusion. It could explore
 Since our encoder achieves robust cross-modal alignment and context mining, we could use a light-weight decoder for segmentation prediction. Extensive experiments show that our proposed Graph-RefSeg outperforms the state-of-the-art methods on three public datasets.
 
 ## Overview
-![3](https://github.com/Boli-trainee/MHFAN-Model/assets/83391363/a2d6526a-4fce-4b46-850e-5b69a7f5a96a)
+![3](https://github.com/ZYQ111/Graph_refseg/blob/main/overview.png)
 
 
